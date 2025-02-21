@@ -1,3 +1,5 @@
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=T0P0ICHH" alt="T0P0ICHH" /></a> </p>
+
 - 👋 Hi, I’m @T0P0ICHH
 - 👀 I’m interested in maybe nothing?
 - 🌱 I’m currently learning HTML because my level of it chatgpt and little bit of brains
