@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/T0P0ICHH=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=T0P0ICHH](https://github.com/ryo-ma/github-profile-trophy)
 
 - 👋 Hi, I’m @T0P0ICHH
 - 👀 I’m interested in maybe nothing?
