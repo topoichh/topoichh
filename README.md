@@ -10,7 +10,7 @@
 - 👀 I’m interested in maybe nothing?
 - 🌱 I’m currently learning HTML because my level of it chatgpt and little bit of brains
 - 💞️ I’m looking to collaborate on what is this
-- 📫 How to reach me topoichh@blahaj.fun
+- 📫 How to reach me info@topoichh.xyz
 - 😄 Pronouns: he/him/hi/im/doofenshmirtz
 - ⚡ Fun fact: fun fact doesn't want you...
 
