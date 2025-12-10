@@ -6,4 +6,4 @@
   <img src="https://komarev.com/ghpvc/?username=T0P0ICHH&label=Profile%20views&color=0e75b6&style=flat" alt="TOPOICHH" /> 
 </p>
 
-https://topoichh.xyz | info@topoichh.xyz / topoichh@blahaj.fun
+https://topoichh.github.io | topoichh@gmail.com
